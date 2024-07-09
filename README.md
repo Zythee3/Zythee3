@@ -10,10 +10,11 @@
 
 <p align="left">
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
  <img src="https://skillicons.dev/icons?i=cs,html,css,python,figma,c,js" />
-
+<br>
+<br>
 <p align="center" style="block"; border-color: 1px solid #fff>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zythee3&show_icons=true&theme=midnight-purple" />
