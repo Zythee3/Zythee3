@@ -12,7 +12,8 @@
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
- <img src="https://skillicons.dev/icons?i=cs,html,css,python,figma,c,js" />
+ <img src="https://skillicons.dev/icons?i=html,css,python,figma,c,js,java,nodejs,react" />
+ 
 <br>
 <br>
 <p align="center" style="block"; border-color: 1px solid #fff>
