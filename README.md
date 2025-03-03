@@ -1,3 +1,5 @@
+<img src="./Images/computer.gif" width="100%"/>
+
 <h1 align="center">Hi, I'm Guilherme</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
