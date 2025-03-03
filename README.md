@@ -1,14 +1,11 @@
 <img src="./Images/computer.gif" width="100%" />
 
 <h1 align="center">Hi, I'm Guilherme <img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif" width="45px" height="45px"></h2></div></h1> 
-<h3 align="center">A passionate developer from Brazil</h3>
+<!-- <h3 align="center">A passionate developer from Brazil</h3> -->
 
 - 🔭 I’m currently working on [Conversão Total](https://github.com/Zythee3/ConversaoTotal)
 - 🌱 I’m currently delving into React.js, Node.js
 
-
-<br>
- 
 ## <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" height="45px">   Languages and Tools: 
  <img src="https://skillicons.dev/icons?i=js,python,c,java,nodejs,react,html,css,figma" />
 <br>
