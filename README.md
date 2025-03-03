@@ -4,6 +4,7 @@
 <h3 align="center">A passionate developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Conversão Total](https://github.com/Zythee3/ConversaoTotal)
+- 🌱 I’m currently delving into React.js, Node.js
 
 
 <br>
