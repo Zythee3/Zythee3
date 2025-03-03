@@ -5,9 +5,6 @@
 
 - 🔭 I’m currently working on [Conversão Total](https://github.com/Zythee3/ConversaoTotal)
 
-
-<a href="https://github.com/Zythee3/ConversaoTotal"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Webdev-Projects&theme=midnight-purple"></a>
-
 <p align="left">
 </p>
 <br>
