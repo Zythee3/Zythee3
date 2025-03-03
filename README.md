@@ -17,14 +17,12 @@
     <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zythee3&theme=midnight-purple&&card_width=790" />
     </a>
+</p>
 <p align="center" style="block"; border-color: 1px solid #fff; >
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=Zythee3&show_icons=true&theme=midnight-purple" />
     </a>
 </p>
-</p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Zythee3/ConversaoTotal)
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/matheus-guilherme-565026289/" target="blank" >
