@@ -1,19 +1,19 @@
-<img src="./Images/computer.gif" width="100%"/>
+<img src="./Images/computer.gif" width="100%" />
 
-<h1 align="center">Hi, I'm Guilherme <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"></h2></div></h1> 
+<h1 align="center">Hi, I'm Guilherme <img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif" width="45px" height="45px"></h2></div></h1> 
 <h3 align="center">A passionate developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Conversão Total](https://github.com/Zythee3/ConversaoTotal)
 
 
 <br>
-<h2 align="left">Languages and Tools:</h2>
- <img src="https://skillicons.dev/icons?i=js,python,c,java,nodejs,react,html,css,figma" />
  
+## <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" height="45px">   Languages and Tools: 
+ <img src="https://skillicons.dev/icons?i=js,python,c,java,nodejs,react,html,css,figma" />
 <br>
  
 
-## GitHub Stats: <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="30px">
+## <img src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" height="45px">   GitHub Stats:  
 <p align="center" style="block"; border-color: 1px solid #fff; >
     <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zythee3&theme=midnight-purple&&card_width=790" />
