@@ -19,9 +19,9 @@
       <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zythee3&theme=midnight-purple&&card_width=790" />
     </a>
 </p>
-<p align="center" style="block"; border-color: 1px solid #fff; >
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=Zythee3&show_icons=true&theme=midnight-purple" />
+<p  align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zythee3&theme=midnight-purple" />
     </a>
 </p>
 
