@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Guilherme</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Gerenciamento Hospitalar](https://github.com/Zythee3/Projeto-Python--Gerenciamento-Hospitalar/tree/Guilherme)
+- 🔭 I’m currently working on [Gerenciamento Hospitalar](https://github.com/Zythee3/ConversaoTotal)
 
 - 🌱 I’m currently learning **Python, C, JS, HTML, CSS, Figma, C#**
 
