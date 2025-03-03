@@ -13,6 +13,7 @@
  
 
 ## GitHub Stats:  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zythee3&theme=high-contrast&area=true&hide_border=true&line=#9745f5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center" style="block"; border-color: 1px solid #fff; >
     <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zythee3&theme=midnight-purple&&card_width=790" />
