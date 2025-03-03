@@ -8,7 +8,7 @@
 - 🌱 I’m currently delving into React.js, Node.js
 
 ## Languages and Tools: 
- <img src="https://skillicons.dev/icons?i=js,python,c,java,nodejs,react,html,css,figma" />
+ <img src="https://skillicons.dev/icons?i=react,nodejs,js,java,python,c,html,css,figma" />
 <br >
  
 
