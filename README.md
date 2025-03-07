@@ -32,7 +32,7 @@
 <a href="mailto:zmatheusguilherme2@gmail.com">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/zythee#5524">
+  <a href="https://discord.com/users/zythee_">
     <img align="left"src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
